@@ -22,8 +22,7 @@ Each service appears twice, creating 16 cards total
 ## Technical Details
 1. It's a standalone HTML file with embedded CSS and JavaScript
 2. Uses modern web technologies like CSS Grid for layout
-3. The card images are loaded from AWS's servers
-4. Implements the Fisher-Yates algorithm for card shuffling
-5. Uses CSS transitions for the card flip animation
+3. Implements the Fisher-Yates algorithm for card shuffling
+4. Uses CSS transitions for the card flip animation
 
 You can open this file in any web browser to play the game.
